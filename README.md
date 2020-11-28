@@ -1,2 +1,0 @@
-# MathThings
-Things about math
